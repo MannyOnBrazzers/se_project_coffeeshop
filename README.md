@@ -13,4 +13,6 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+- Further practice in animations and transitions to include further on my web pages
+- Add a search bar for easy content finding
+- Enhance visual appeal with videos and animations judiciously.
