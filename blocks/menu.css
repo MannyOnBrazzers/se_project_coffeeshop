@@ -1,9 +1,5 @@
 .menu {
-  background-color: #fff;
-  background-image: url("../images/background_menu.svg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
+  background: #fff url("../images/background_menu.svg") no-repeat center/cover;
   padding: 100px 0;
 }
 
@@ -11,7 +7,7 @@
   text-align: center;
   max-width: 780px;
   margin: 0 auto 24px;
-  font-family: "Inter", Arial, Helvetica, sans-serif;
+  font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 44px;
